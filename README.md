@@ -374,6 +374,7 @@ We will actively maintain the survey and the Github repo.
 - DIME-FM : DIstilling Multimodal and Efficient Foundation Models. *[ICCV'23]* [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_DIME-FM__DIstilling_Multimodal_and_Efficient_Foundation_Models_ICCV_2023_paper.html) [[Code]](https://github.com/sunxm2357/DIME-FM)
 - MixKD: Towards Efficient Distillation of Large-scale Language Models. *[arXiv'20]* [[Paper]](https://arxiv.org/abs/2011.00593)
 - Less is More: Task-aware Layer-wise Distillation for Language Model Compression. *[arXiv'22]* [[Paper]](https://arxiv.org/abs/2210.01351) [[Code]](https://github.com/oshindutta/task-aware-distillation)
+- DISTILLM: Towards Streamlined Distillation for Large Language Models. *[arXiv'24]* [[Paper]](https://arxiv.org/pdf/2402.03898.pdf) [[Code]](https://github.com/jongwooko/distillm)
 - Propagating Knowledge Updates to LMs Through Distillation. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2306.09306)
 - GKD: Generalized Knowledge Distillation for Auto-regressive Sequence Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2306.13649) [[Code]](https://github.com/njulus/GKD)
 - Knowledge Distillation of Large Language Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2306.08543)
