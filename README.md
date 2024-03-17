@@ -512,6 +512,8 @@ We will actively maintain the survey and the Github repo.
 - SLoRA: Federated Parameter Efficient Fine-Tuning of Language Models. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2311.03285) [[Code]](https://github.com/S-LoRA/S-LoRA)
 - Efficient Memory Management for Large Language Model Serving with PagedAttention. *[SOSP'23]* [[Paper]](https://dl.acm.org/doi/10.1145/3600006.3613165) [[Code]](https://github.com/vllm-project/vllm)
 - Efficiently Programming Large Language Models using SGLang. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2312.07104)
+- Approximate Caching for Efficiently Serving Diffusion Models. *[NSDI'24]* [[Paper]](https://arxiv.org/abs/2312.04429)
+- ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval. *[ICML'23]* [[Paper]](https://arxiv.org/abs/2312.04429)
 
 ### Serving on Edge
 
