@@ -514,6 +514,8 @@ We will actively maintain the survey and the Github repo.
 - Efficiently Programming Large Language Models using SGLang. *[arXiv'23]* [[Paper]](https://arxiv.org/abs/2312.07104)
 - Approximate Caching for Efficiently Serving Diffusion Models. *[NSDI'24]* [[Paper]](https://arxiv.org/abs/2312.04429)
 - ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval. *[ICML'23]* [[Paper]](https://arxiv.org/abs/2312.04429)
+- Batched Low-Rank Adaptation of Foundation Models. *[ICLR'24]* [[Paper]](https://arxiv.org/abs/2312.05677)
+- DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving. *[arXiv'24]* [[Paper]](https://arxiv.org/abs/2401.09670)
 
 ### Serving on Edge
 
